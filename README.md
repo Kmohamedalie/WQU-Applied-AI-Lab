@@ -11,3 +11,10 @@
 5. Use neural networks to generate a variety of medical images
 
 6. Use a stable diffusion model to create and deploy a meme generator app for social media marketing in the United States
+
+
+
+**project demo: Medical Data in Spain 
+
+https://github.com/user-attachments/assets/0da10b35-c1c7-4b48-8ac7-58fb5dd91285
+
