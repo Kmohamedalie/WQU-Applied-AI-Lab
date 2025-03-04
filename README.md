@@ -1,5 +1,7 @@
 # Deep Learning for Computer Vision
 
+Property of [wqu](https://www.wqu.edu/ai-lab-computer-vision) ⚠️
+
 1. Assess a data science competition designed to help scientists track animals in a wildlife preserve in Côte d'Ivoire
 
 2. Build and train a convolutional neural network to classify images of crop disease in Uganda
@@ -11,6 +13,8 @@
 5. Use neural networks to generate a variety of medical images
 
 6. Use a stable diffusion model to create and deploy a meme generator app for social media marketing in the United States
+
+
 
 
 <br>
